@@ -1,4 +1,4 @@
-# sourcegraph-knowledge-base (Sourcegraph extension)
+# Sourcegraph knowledge bases extension
 
 Browse Markdown knowledge bases (e.g. [Obsidian vaults](https://obsidian.md/) or [Foam repositories](https://github.com/foambubble/foam/)) in [Sourcegraph](https://about.sourcegraph.com/).
 
