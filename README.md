@@ -18,4 +18,4 @@ Browse Markdown knowledge bases (e.g. [Obsidian vaults](https://obsidian.md/) or
 
 ## Current limitations
 
-The Sourcegraph extensions API doesn't seem to enable hovers on Markdown previews at the moment, so you must toggle off previews for this extension to work at the moment.
+The Sourcegraph extensions API currently doesn't seem to enable hovers on Markdown previews, so you must toggle off previews for this extension to work at the moment.
