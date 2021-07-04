@@ -40,7 +40,7 @@ export const HoverProvider: sourcegraph.HoverProvider = {
         }
 
         // Get wikilink (including the brackets)
-        const wikilinkRange = new sourcegraph.Range(new sourcegraph.Position(hover.line, leftBrace), new sourcegraph.Position(hover.line, rightBrace + 2))
+        const wikilinkRange = new sourcegraph.Range(new sourcegraph.Position(hover.line, leftBrace), new sourcegraph.Position(hover.line, rightBrace + 1))
         const wikilink = document.getText(wikilinkRange)
         if (!wikilink) { throw new Error('where is my text buddy?') }
 
