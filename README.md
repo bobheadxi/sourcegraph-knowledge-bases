@@ -15,3 +15,7 @@ Browse Markdown knowledge bases (e.g. [Obsidian vaults](https://obsidian.md/) or
 - Side panes
   - [ ] Browse inbound (backlinks) and outbound links
   - [ ] Browse `#TAG`s in side panes
+
+## Current limitations
+
+The Sourcegraph extensions API doesn't seem to enable hovers on Markdown previews at the moment, so you must toggle off previews for this extension to work at the moment.
