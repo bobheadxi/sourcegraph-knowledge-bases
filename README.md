@@ -2,7 +2,9 @@
 
 Browse Markdown knowledge bases (e.g. [Obsidian vaults](https://obsidian.md/) or [Foam repositories](https://github.com/foambubble/foam/)) in [Sourcegraph](https://about.sourcegraph.com/).
 
-![Sourcegraph extension](.static/feature.png)
+[**Enable on Sourcegraph.com →**](https://sourcegraph.com/extensions/bobheadxi/sourcegraph-knowledge-bases)
+
+![Sourcegraph extension](https://github.com/bobheadxi/sourcegraph-knowledge-bases/blob/master/.static/feature.png?raw=true)
 
 ## Roadmap
 
