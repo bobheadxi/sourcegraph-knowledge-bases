@@ -43,7 +43,6 @@ export const HoverProvider: sourcegraph.HoverProvider = {
         const wikilinkRange = new sourcegraph.Range(new sourcegraph.Position(hover.line, leftBrace), new sourcegraph.Position(hover.line, rightBrace + 1))
         const wikilink = document.getText(wikilinkRange)
         if (!wikilink) { throw new Error('where is my text buddy?') }
-        console.log(wikilink)
 
         // Generate a query for the wikilink
         const [link, alias] = wikilink.slice(2, -2).split('|')
