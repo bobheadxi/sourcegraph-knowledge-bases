@@ -1,5 +1,8 @@
 # Sourcegraph knowledge bases extension
 
+> ⚠️ Sourcegraph extensions have been [deprecated with the September 2022 Sourcegraph
+release](https://docs.sourcegraph.com/extensions/deprecation).
+
 Browse Markdown knowledge bases (e.g. [Obsidian vaults](https://obsidian.md/) or [Foam repositories](https://github.com/foambubble/foam/)) in [Sourcegraph](https://about.sourcegraph.com/).
 
 [**Enable on Sourcegraph.com →**](https://sourcegraph.com/extensions/bobheadxi/sourcegraph-knowledge-bases)
